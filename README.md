@@ -1,4 +1,5 @@
 ###AtliQ Hardware Sales Insights Data Analysis Project(using SQL)
+[Tableau:Dashboard link here] (https://prod-apnortheast-a.online.tableau.com/#/site/pintugiri9807-641686242f/workbooks/2310901/views)
 
 1. Show all customer records
 
