@@ -1,6 +1,7 @@
 ###AtliQ Hardware Sales Insights Data Analysis Project(using SQL)
 
 [Tableau:Dashboard link here] (https://prod-apnortheast-a.online.tableau.com/#/site/pintugiri9807-641686242f/workbooks/2310901/views)
+Note: When I created this dashboard, it had only a 14-day free trial, so it might stop working after 14 days.
 
 1. Show all customer records
 
